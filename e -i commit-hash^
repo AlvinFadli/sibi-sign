@@ -1,0 +1,30 @@
+[33mcommit 242736fffe9cca75cfdc8ad628f0da8e2368e7f4[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31mgithub/main[m[33m)[m
+Merge: 7331400 aff78e3
+Author: alvinfdl21 <alvinfdl21@gmail.com>
+Date:   Sun May 26 23:34:59 2024 +0700
+
+    Merge branch 'main' of https://github.com/alvinfadli/sibi-sign
+
+[33mcommit 7331400d5a65dd11a6a7369711651ac29208b0ad[m
+Author: alvinfdl21 <alvinfdl21@gmail.com>
+Date:   Sun May 26 23:26:33 2024 +0700
+
+    add: readme.md
+
+[33mcommit 59e6f15d8a299f23a7b02cb85605347e69b8fbff[m
+Author: alvinfdl21 <alvinfdl21@gmail.com>
+Date:   Sun May 26 23:26:24 2024 +0700
+
+    update: requirements
+
+[33mcommit 8f14caffd937f20ebe3f4e1c1eeaf025dd165316[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: alvinfdl21 <alvinfdl21@gmail.com>
+Date:   Sun Jul 16 22:24:51 2023 +0700
+
+    a
+
+[33mcommit aff78e3519a97ec71e67e31c5287ef0746070c9c[m
+Author: alvinfdl21 <alvinfdl21@gmail.com>
+Date:   Sun Jul 16 21:14:55 2023 +0700
+
+    first commit
