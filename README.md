@@ -1,6 +1,6 @@
 # Sibi signs
 
-Sibi signs is a web-based application that utilizes Computer Vision and Convolutional Neural Network technology to classify Indonesian SIBI-styled sign language.
+Sibi signs is a web-based application that utilizes Computer Vision technology to classify Indonesian SIBI-styled sign language.
 
 P.S Let me know if there's something wrong
 
