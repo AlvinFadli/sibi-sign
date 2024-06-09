@@ -16,7 +16,7 @@ P.S Let me know if there's something wrong
 
 Here is official [docs](https://docs.python.org/3/library/venv.html) if the commands below aren't working.
 
-Create virtual environment, if
+Create virtual environment
 
 ```bash
   python -m venv venv
